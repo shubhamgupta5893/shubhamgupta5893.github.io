@@ -3,13 +3,12 @@
 #
 
 # Name of your site
-name: Barry Clark - Getting Hired as a Web Developer
+name: Shubham Gupta - PhD student at Computer science in IIT - Delhi and Senior Data Scientist
 
 # Short bio or description
-description: Hi, I&#39;m Barry Clark, a web developer from NYC. I write about web development and how to get hired.
-
+description: Hi, I am persuing a phd in Machine learning. My current focus area includes Graph Represenation learning. Further I am working as Senior Data scienctist in Naukri.com where I mostly work in recommendation, informration retrieval from unstructured sources.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://www.gravatar.com/avatar/36b4f56a7fa40d3c06e5afc4ed0b82b5?s=200
+avatar: https://www.facebook.com/photo.php?fbid=2851760128211420&set=a.115609461826514&type=3&theater
 
 #
 # Flags below are optional
@@ -18,15 +17,15 @@ avatar: http://www.gravatar.com/avatar/36b4f56a7fa40d3c06e5afc4ed0b82b5?s=200
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: barry@barryclark.co
+  email: shubhamgupta5893@gmail.com
   facebook: 
   flickr: 
-  github: barryclark
+  github: shubhamgupta5893
   instagram: 
-  linkedin: bazclark
+  linkedin: shubhamgupta5893
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: baznyc
+  twitter: 
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
@@ -42,8 +41,8 @@ mailchimp:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.barryclark.co
-imagesurl: http://www.barryclark.co/images
+url: http://shubhamgupta5893.github.io
+imagesurl: http://shubhamgupta5893.github.io/images
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
