@@ -3,11 +3,12 @@ layout: page
 cta: newsletter
 title: About Me
 permalink: /about/
+published: true
 ---
 
 # Hi There!
 
-My name is Barry and I'm from NYC. I'm the [Director of Technical Product at DoSomething.org](https://www.linkedin.com/in/bazclark) where I serve as the chief unblocker within our engineering team.
+My name is Shubham and I am currently living in Delhi-NCR. I'm the [PhD Student@IIT-Delhi](https://www.linkedin.com/in/shubhamguptaiitd/) where I am working on Graph Representation Learning.
 
 ![DoSomething.org Tech Team - End of 2013]({{ site.imagesurl }}/DoSomething-Tech-Team.jpg "DoSomething.org Tech Team - End of 2013")
 
@@ -34,4 +35,3 @@ That's this blog aiming to help you get hired as a web developer. You can sign u
 4. I designed and programmed a number of the gunfights and car chases in Grand Theft Auto 4.
 5. I organize [Tech For Good NYC Meetup](http://www.meetup.com/Tech-For-Good-NYC/)—come join!
 6. My hometown is Edinburgh, Scotland.
-
